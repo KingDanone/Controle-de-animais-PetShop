@@ -19,3 +19,7 @@ Ex:
 - Entre em contato no Email:
 
 [luisricardolaranjeiravieira@gmail.com](luisricardolaranjeiravieira@gmail.com)
+
+## ❗ Pontos importantes ❗
+Class main do projeto: PetshopTest.java
+
